@@ -3,3 +3,4 @@ pillow
 numpy
 scikit-learn
 pandas
+git+https://github.com/andfanilo/streamlit-drawable-canvas.git
